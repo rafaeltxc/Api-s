@@ -1,0 +1,16 @@
+{
+  "env": {
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["airbnb", "airbnb/hooks", "prettier"],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": ["off", 2],
+    "no-console": "warn",
+    "no-unused-vars": "warn"
+  }
+}
