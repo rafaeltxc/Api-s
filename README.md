@@ -1,6 +1,6 @@
 # Api's
 
-The api's are separated each one in it's own branch, in different languages or frameworks.
+The api's are separated each one in it's own folder, in different languages or frameworks.
 
 All of them follow the same dataBase structure:
 ```mermaid
